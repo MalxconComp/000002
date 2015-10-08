@@ -1,0 +1,33 @@
+HTTrack3.48-21+htsswf+htsjava launched on Wed, 07 Oct 2015 20:41:26 at http://club.lagaceta.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://club.lagaceta.com/ -O1 "C:\My Web Sites\La gaceta" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:45:20	Error: 	"Not Found" (404) at link club.lagaceta.com/expressInstall.swf (from club.lagaceta.com/)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/css/images/sprites/sprite_btns.png (from club.lagaceta.com/css/estilo.css)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/img/contentslider/selected-item.gif (from club.lagaceta.com/css/slidergeneral.css)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/img/contentslider/transparent-bg.png (from club.lagaceta.com/css/slidergeneral.css)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/es_LA/all.js)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/restserver.php (from connect.facebook.net/es_LA/all.js)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/dialog/ (from connect.facebook.net/es_LA/all.js)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/POST (from club.lagaceta.com/WebResource.axd?d=vyQi9383ljiGVy7NdquUy0M-L-qM44e5LysUw9WhR-bSps47AY7AS5arSFC7kUCCIWxn3e-FmDl4joQT1brcW0TIfeMFdyysKOeYtX_it6g1&t=635586488020000000)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/Firefox/ (from club.lagaceta.com/ScriptResource.axd?d=OGo2VxXxb9-bDPKEBlczIoA_iR1lxwptyfkjH4muW_IN9EoSBhYH2Nswtu1PSMvkQhZwsKKIkm2H5KDOPXxsZISICu6qCO-CRVXB8Mn85W-BXQ49ulLdXcDe9xuX474W0&t=610a7411)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/AppleWebKit/ (from club.lagaceta.com/ScriptResource.axd?d=OGo2VxXxb9-bDPKEBlczIoA_iR1lxwptyfkjH4muW_IN9EoSBhYH2Nswtu1PSMvkQhZwsKKIkm2H5KDOPXxsZISICu6qCO-CRVXB8Mn85W-BXQ49ulLdXcDe9xuX474W0&t=610a7411)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/Opera/ (from club.lagaceta.com/ScriptResource.axd?d=OGo2VxXxb9-bDPKEBlczIoA_iR1lxwptyfkjH4muW_IN9EoSBhYH2Nswtu1PSMvkQhZwsKKIkm2H5KDOPXxsZISICu6qCO-CRVXB8Mn85W-BXQ49ulLdXcDe9xuX474W0&t=610a7411)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/MicrosoftAjaxWebForms.js (from club.lagaceta.com/ScriptResource.axd?d=iYsNBrPTW_cgM1T4e6y7N_rv3nbaGIb7Q6mIPs_n7OA3VRWA6zLD04BquZoj9FMGQh2pBt4vZwLQ7997-AaRQZO4dR7LWvgN2t4lQR--nYIlcpd-EdDQ1eSzuhqdUzMXxSh2hiDR8fvgjZPMYLbVog2&t=610a7411)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/MicrosoftAjaxSerialization.js (from club.lagaceta.com/ScriptResource.axd?d=iYsNBrPTW_cgM1T4e6y7N_rv3nbaGIb7Q6mIPs_n7OA3VRWA6zLD04BquZoj9FMGQh2pBt4vZwLQ7997-AaRQZO4dR7LWvgN2t4lQR--nYIlcpd-EdDQ1eSzuhqdUzMXxSh2hiDR8fvgjZPMYLbVog2&t=610a7411)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/MicrosoftAjaxNetwork.js (from club.lagaceta.com/ScriptResource.axd?d=iYsNBrPTW_cgM1T4e6y7N_rv3nbaGIb7Q6mIPs_n7OA3VRWA6zLD04BquZoj9FMGQh2pBt4vZwLQ7997-AaRQZO4dR7LWvgN2t4lQR--nYIlcpd-EdDQ1eSzuhqdUzMXxSh2hiDR8fvgjZPMYLbVog2&t=610a7411)
+20:53:16	Error: 	"Not Found" (404) at link club.lagaceta.com/que-es-el-club/expressInstall.swf (from club.lagaceta.com/que-es-el-club/)
+20:53:23	Error: 	"Not Found" (404) at link club.lagaceta.com/obtene-tu-tarjeta/expressInstall.swf (from club.lagaceta.com/obtene-tu-tarjeta/)
+20:53:27	Error: 	"Not Found" (404) at link club.lagaceta.com/preguntas-frecuentes/expressInstall.swf (from club.lagaceta.com/preguntas-frecuentes/)
+20:53:27	Error: 	"Not Found" (404) at link club.lagaceta.com/consultas/expressInstall.swf (from club.lagaceta.com/consultas/)
+21:01:53	Error: 	"Not Found" (404) at link club.lagaceta.com/Beneficios/www.laestanciadecafayate.com (from club.lagaceta.com/Beneficios/UnBeneficio/2895/La-Estancia-de-Cafayate.html)
+21:01:56	Error: 	"Not Found" (404) at link club.lagaceta.com/Beneficios/expressInstall.swf (from club.lagaceta.com/Beneficios/Resultados?tag=indumentaria%20femenina)
+21:03:08	Error: 	"Not Found" (404) at link club.lagaceta.com/mapa-del-sitio/expressInstall.swf (from club.lagaceta.com/mapa-del-sitio/)
+21:03:15	Error: 	"Not Found" (404) at link club.lagaceta.com/bases-y-condiciones-del-programa/expressInstall.swf (from club.lagaceta.com/bases-y-condiciones-del-programa/)
+
+HTTrack Website Copier/3.48-21 mirror complete in 22 minutes 32 seconds : 1535 links scanned, 1512 files written (50400230 bytes overall) [26121409 bytes received at 19320 bytes/sec], 37099569 bytes transferred using HTTP compression in 854 files, ratio 33%, 1.0 requests per connection
+(22 errors, 0 warnings, 0 messages)

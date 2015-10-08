@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+club.lagaceta.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	0vrstovfnv2skytq5kzonoqj
+

@@ -1,0 +1,178 @@
+/*MAIN LAYOUT*/
+/*----------------------------
+		FORMULARIOS
+------------------------------*/
+
+
+.INPUTTextBox {
+    border: #cfcece 1px solid;
+    font-size: 12px;
+    color: #858585;
+    font-family: Arial, Verdana;
+    text-align: left;
+	padding:3px;
+	margin-bottom:7px;
+	height:17px;
+	vertical-align:bottom;
+}
+
+.INPUTTextBox:focus, input.INPUTTextBox_focus{
+  border-color:#000000;
+}
+
+.INPUTTextBox_Error {
+    border: #d21f49 1px solid;
+    font-size: 12px;
+    color: #d21f49;
+    font-family: Arial, Verdana;
+    text-align: left;
+	padding:3px;
+	margin-bottom:7px;
+	height:17px;
+	vertical-align:bottom;
+}
+
+.INPUTTextBox_Error:focus, input.INPUTTextBox_Error_focus{
+  border-color:#000000;
+}
+
+.INPUTTextArea {
+    border: #cbcbcb 1px solid;
+    font-size: 12px;
+    color: #858585;
+	font-family: Arial, Verdana;
+    text-align: left;
+	padding:6px;
+	margin-bottom:7px;
+}
+
+.INPUTTextArea:focus, input.INPUTTextArea_focus{
+  border-color:#000000;
+}
+
+.INPUTTextArea_Error {
+    border: #d21f49 1px solid;
+    font-size: 12px;
+    color: #d21f49;
+	font-family: Arial, Verdana;
+    text-align: left;
+	padding:6px;
+	margin-bottom:7px;
+}
+
+.INPUTTextArea_Error:focus, input.INPUTTextArea_Error_focus{
+  border-color:#000000;
+}
+
+.INPUTComboBox {
+    border: #cccbcb 1px solid;
+    font-size: 12px;
+    color: #666666;
+    font-family: Arial, Verdana;
+    text-align: left;
+	margin-bottom:7px;
+	height:25px;
+	padding-top: 3px;
+}
+
+.INPUTComboBox:focus, input.INPUTComboBox_focus{
+  border-color:#000000;
+}
+
+
+.INPUTComboBox_Error {
+    border: #d21f49 1px solid;
+    font-size: 12px;
+    background: #feecf0;
+    color: #d21f49;
+    font-family: Arial, Verdana;
+	text-align: left;
+	margin-bottom:7px;
+	height:25px;
+	padding-top: 3px;
+}
+
+.INPUTComboBox_Error:focus, input.INPUTComboBox_Error_focus{
+  border-color:#000000;
+}
+
+/**/
+.INPUTRadioButton {
+
+    font-size: 12px;
+    color: #666666;
+    font-family: Arial, Verdana;
+    text-align: left;
+	padding:6px;
+	margin-bottom:7px;
+	height:30px;
+}
+
+.INPUTRadioButton:focus, input.INPUTRadioButton_focus{
+  border-color:#000000;
+}
+
+
+.INPUTRadioButton_Error {
+    font-size: 12px;
+    background: #feecf0;
+    color: #d21f49;
+    font-family: Arial, Verdana;
+	text-align: left;
+	padding:6px;
+	margin-bottom:7px;
+	height:30px;
+}
+
+.INPUTRadioButton_Error:focus, input.INPUTRadioButton_Error_focus{
+  border-color:#000000;
+}
+/**/
+
+.INPUTCheckBox {
+    /*border: #cfcece 1px solid;*/
+    font-size: 12px;
+    color: #858585;
+    font-family: Arial, Verdana;
+    text-align: left;
+	padding:3px;
+	margin-bottom:7px;
+	height:17px;
+	vertical-align:bottom;
+/*
+    font-size: 12px;
+    color: #666666;
+    font-family: Arial, Verdana;
+	padding:6px;
+	margin-bottom:7px;
+*/
+}
+
+.INPUTCheckBox:focus, input.INPUTCheckBox_focus{
+  border-color:#000000;
+}
+
+.INPUTCheckBox_Error {
+    font-size: 12px;
+    background: #feecf0;
+    color: #d21f49;
+    font-family: Arial, Verdana;
+    text-align: left;
+	padding:3px;
+	margin-bottom:7px;
+	height:17px;
+	vertical-align:bottom;
+/*
+    font-size: 12px;
+	background: #feecf0;
+	color: #d21f49;
+    font-family: Arial, Verdana;
+	padding:6px;
+	margin-bottom:7px;
+*/
+}
+
+.INPUTCheckBox_Error:focus, input.INPUTCheckBox_Error_focus{
+  border-color:#000000;
+}
+
